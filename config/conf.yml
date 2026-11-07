@@ -1,0 +1,17 @@
+pageInfo:
+  title: Root Home
+appConfig:
+  theme: default
+  showSplashScreen: false
+  statusCheck: false
+  disableUpdateChecks: true
+pages:
+  - name: Page A
+    path: page-a.yml
+  - name: Page B
+    path: page-b.yml
+sections:
+  - name: Root Section
+    items:
+      - title: Root Item
+        url: https://example.com/root

@@ -1,0 +1,7 @@
+pageInfo:
+  title: Page A Title
+sections:
+  - name: Section of A
+    items:
+      - title: Item A1
+        url: https://example.com/a1
